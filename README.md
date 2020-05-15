@@ -6,7 +6,7 @@ This is the repository for project Data Science Blog Post, a part of the Data Sc
 2. [Libraries](#libraries)
 3. [Files](#files)
 4. [Results](#results)
-5. [Acknowledgements](#acknowledgements)
+5. [References](#references)
 
 ## 1. Project Overview <a name="ProjectOverview"></a> 
 The aim of this project is to build a model for classifies disaster messages. The dataset collected by [Figure Eight](https://www.figure-eight.com/). The [disaster response dataset](https://www.figure-eight.com/dataset/combined-disaster-response-data/) contains 30,000 messages, It has been encoded with 36 different categories related to disaster response and has been stripped of messages with sensitive information in their entirety.   
@@ -52,6 +52,6 @@ The aim of this project is to build a model for classifies disaster messages. Th
 ## 4. Results <a name="results"></a> 
 The result of the analysis is presented in this post [Status Breakdown of COVID-19 Pandemic Cases](https://medium.com/@think.ai/status-breakdown-of-covid-19-pandemic-cases-3fc963e077f8).
 
-## 5. Acknowledgements <a name="acknowledgements"></a> 
+## 5. References <a name="references"></a> 
 I wish to thank [Kaggle](https://www.kaggle.com) and [JHU CSSE](https://github.com/CSSEGISandData/COVID-19) for the Novel Coronavirus (COVID-19) Cases dataset. 
 Also, thanks for [Udacity](https://www.udacity.com) for advice.
